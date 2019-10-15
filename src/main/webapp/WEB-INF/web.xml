@@ -32,13 +32,7 @@
 
 	<servlet-mapping>
 		<servlet-name>dispatcher</servlet-name>
-		<url-pattern>/*</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
-	
-	<servlet-mapping>
-	    <servlet-name>jsp</servlet-name>
-	    <url-pattern>/WEB-INF/views/*</url-pattern>
- 	</servlet-mapping>
-
 
 </web-app>
