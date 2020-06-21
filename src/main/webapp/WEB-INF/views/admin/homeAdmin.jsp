@@ -7,13 +7,13 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
   <!-- Custom fonts for this template-->
-  <link href="<c:url value='template/admin/vendor/fontawesome-free/css/all.min.css'/>" rel="stylesheet" type="text/css">
+  <link href="<c:url value='resources/admin/vendor/fontawesome-free/css/all.min.css'/>" rel="stylesheet" type="text/css">
 
   <!-- Page level plugin CSS-->
-  <link href="<c:url value='template/admin/vendor/datatables/dataTables.bootstrap4.css'/>" rel="stylesheet">
+  <link href="<c:url value='resources/admin/vendor/datatables/dataTables.bootstrap4.css'/>" rel="stylesheet">
 
   <!-- Custom styles for this template-->
-  <link href="<c:url value='template/admin/css/sb-admin.css'/>" rel="stylesheet">
+  <link href="<c:url value='resources/admin/css/sb-admin.css'/>" rel="stylesheet">
 </head>
 <body id="page-top">
 	<nav class="navbar navbar-expand navbar-dark bg-dark static-top">
